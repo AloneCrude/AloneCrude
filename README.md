@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AloneCrude (Caleb Sanches)
-- 👀 I’m interested in hockey, coding and tecnolegy, and also anything gaming.
+- 👀 I’m interested in sports, coding and tecnolegy, and also anything gaming. Also some types of music
 - 🌱 I’m currently learning nothing really! Just kickin by everyday.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me! Just go to gmail(or any email site) and my email is 1alonecrude9@gmail.com!
+- 📫 How to reach me! Just go to gmail(or any email site) and my email is ---> 1alonecrude9@gmail.com!
 
 <!---
 AloneCrude/AloneCrude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
